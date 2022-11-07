@@ -1,0 +1,9 @@
+.preNavbar a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 20px;
+}
+
+.preNavbar a:hover {
+    color: aqua;
+}
