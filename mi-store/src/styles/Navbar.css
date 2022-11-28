@@ -1,0 +1,29 @@
+.navbar{
+    width:100%;
+}
+.logo{
+    width:50px;
+    overflow:hidden;
+}
+.brandlogo{
+    transform:translateX(-50px);
+}
+
+.brandlogo:hover{
+    transform:translateX(0);
+}
+
+.searchbox{
+    border-bottom:4px solid black;
+
+}
+
+.navlinks{
+    margin-right:30px;
+
+}
+
+.navlinks:hover{
+    background-color:black;
+    border-radius: 10px;
+}
